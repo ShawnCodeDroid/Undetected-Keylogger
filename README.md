@@ -1,4 +1,4 @@
-# Semi-Fudded Keylogger (Educational Purposes Only)
+# Semi-Fudded Keylogger
 
 ---
 > ⚠️ **DISCLAIMER:** This code is for educational use only. Unauthorized use is strictly prohibited and may be illegal.
