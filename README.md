@@ -20,7 +20,7 @@ The goal is to showcase methods to evade antivirus scanners *without accidentall
 ## Technical Details
 
 - Uses **dynamic API resolution** (`LoadLibraryA`, `GetProcAddress`) instead of static imports
-- Implements **stack strings** and concatenation to hide critical strings
+- Implements **stack strings** and concatenation to hide suspicious strings
 - Incorporates **junk instructions** to obfuscate program behavior
 - Avoids common heuristics that cause antivirus flags
 
